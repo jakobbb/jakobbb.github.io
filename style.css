@@ -181,3 +181,7 @@ and (max-device-width : 480px){
 .bookmark:hover {
     color: #fff;
 }
+.quote {
+    color: #A9A9A9;
+    font-family: Courier;
+}

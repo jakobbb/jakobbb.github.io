@@ -185,6 +185,7 @@ and (max-device-width : 480px){
     paddin: 2em;
     color: #A9A9A9;
     font-family: Courier;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    width:40%;
     
 }

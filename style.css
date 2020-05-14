@@ -182,6 +182,9 @@ and (max-device-width : 480px){
     color: #fff;
 }
 .quote {
+    paddin: 2em;
     color: #A9A9A9;
     font-family: Courier;
+    font-size: 2rem;
+    
 }
